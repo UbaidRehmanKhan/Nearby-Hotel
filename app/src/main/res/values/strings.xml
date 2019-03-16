@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Hotel</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="glide_image_error">Glide Error</string>
+    <string name="food">Food</string>
+    <string name="nearby_hotel">Nearby Hotel</string>
+    <string name="reviews">reviews</string>
+</resources>
